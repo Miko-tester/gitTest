@@ -1,2 +1,2 @@
-To jest zmiana na newFeature
+To jest zmiana na newFeasture
 
